@@ -1,0 +1,16 @@
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    text-align: center;
+}
+
+.starship {
+    justify-content: center;
+    background-color: red;
+    width: 200px;
+    height:100px;
+    margin: 20px;
+    
+
+}
